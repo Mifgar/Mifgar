@@ -3,7 +3,7 @@
 I'm Collin, a student finishing my Abitur in Germany.
 
 I like building small projects to experiment with new ideas, as well as working on longer projects where ideas accumulate over time and turn into something more complete.  
-I’m still learning a lot about programming, so most of my projects are simple — but I enjoy figuring things out and trying new things.
+I’m still learning a lot about programming, so most of my projects are simple but I enjoy figuring things out and trying new things.
 
 Most of my projects so far are browser-based.  
 I mainly work with HTML, CSS, and JavaScript, and I’m gradually improving my skills.
